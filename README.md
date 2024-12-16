@@ -1,0 +1,1 @@
+# teste-em-python.-jogo-de-adivinha-contra-a-m-quina.
